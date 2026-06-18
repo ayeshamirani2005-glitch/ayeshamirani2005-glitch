@@ -1,21 +1,71 @@
-# Hi there, I'm Ayesha! 👋
+# Ayesha Mirani
 
-### 👩‍💻 Front-End Developer | Tech Enthusiast
+### Front-End Developer | AI Learner
 
-I am a passionate developer focused on creating clean, responsive, and user-friendly interfaces.
-
-- 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m currently learning **Advanced CSS and JavaScript**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **ayeshamirani2005@gmail.com**
-
-### 🛠 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+I am a front-end developer focused on building responsive, user-centered web interfaces and continuously improving my problem-solving skills through real-world projects and consistent practice in modern web technologies and Artificial Intelligence.
 
 ---
-*“Coding is not just about logic, it’s about creating something beautiful out of nothing.”
 
+## Professional Summary
 
+A motivated developer with a strong foundation in front-end development. I enjoy transforming ideas into structured, responsive, and functional web experiences. Currently strengthening my skills in JavaScript, C++, and Artificial Intelligence with a focus on practical implementation.
+
+---
+
+## Technical Skills
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,git,github,vscode,wordpress"/>
+
+</p>
+
+---
+
+## Internship Experience
+
+### CodeAlpha Internship
+
+Completed internship at CodeAlpha with focus on practical development tasks.
+
+* Certificate of Completion
+* Letter of Recommendation
+
+Gained experience in real-world project workflows, problem-solving, and task-based development.
+
+---
+
+## Projects
+
+* Responsive Web Pages using HTML & CSS
+* JavaScript-based interactive components
+* C++ logic building programs and small console applications
+* Practice projects based on web development fundamentals
+
+---
+
+## Learning & Development
+
+* Advanced CSS (Flexbox, Grid, Responsive Design)
+* JavaScript (DOM, Logic Building, ES Basics)
+* C++ Problem Solving
+* Artificial Intelligence Fundamentals
+* Git & GitHub Workflow
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayeshamirani&show_icons=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamirani&layout=compact"/>
+
+</p>
+
+---
+
+## Objective
+
+To grow as a software developer by working on impactful projects, improving technical depth, and contributing to real-world development solutions while continuously learning modern technologies.
