@@ -37,17 +37,17 @@ Gained experience in real-world project workflows, problem-solving, and task-bas
 
 ## Projects
 
-* Responsive Web Pages using HTML & CSS
-* JavaScript-based interactive components
-* C++ logic building programs and small console applications
-* Practice projects based on web development fundamentals
+* Responsive web pages using HTML & CSS
+* JavaScript interactive components
+* C++ logic building programs and console applications
+* Practice projects in web development fundamentals
 
 ---
 
 ## Learning & Development
 
 * Advanced CSS (Flexbox, Grid, Responsive Design)
-* JavaScript (DOM, Logic Building, ES Basics)
+* JavaScript (DOM, ES Basics, Logic Building)
 * C++ Problem Solving
 * Artificial Intelligence Fundamentals
 * Git & GitHub Workflow
@@ -58,9 +58,9 @@ Gained experience in real-world project workflows, problem-solving, and task-bas
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayeshamirani&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayeshamirani2005&show_icons=true&theme=default"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamirani&layout=compact"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamirani2005&layout=compact"/>
 
 </p>
 
