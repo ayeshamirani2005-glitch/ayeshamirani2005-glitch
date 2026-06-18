@@ -58,9 +58,9 @@ Gained experience in real-world project workflows, problem-solving, and task-bas
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayeshamirani2005&show_icons=true&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayeshamirani2005-glitch&show_icons=true&theme=default"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamirani2005&layout=compact"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamirani2005-glitch&layout=compact"/>
 
 </p>
 
