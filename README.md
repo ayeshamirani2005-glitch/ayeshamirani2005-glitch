@@ -66,7 +66,6 @@ Academic programming exercises focused on conditional statements, loops, logic b
 ### 🌐 Front-End Development Projects
 Responsive web pages and interactive components built using HTML, CSS, and JavaScript.
 
-> Add links to your actual project repositories here.
 
 ---
 
