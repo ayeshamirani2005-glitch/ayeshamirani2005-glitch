@@ -163,7 +163,7 @@ Responsive web pages and interactive components with modern web technologies.
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ayeshamirani&theme=tokyonight&hide_border=true&ring=FF79C6&fire=00CFFF&currStreakLabel=BD93F9"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=ayeshamirani2005&theme=tokyonight&hide_border=true&ring=FF79C6&fire=00CFFF&currStreakLabel=BD93F9"/>
 
 </div>
 
