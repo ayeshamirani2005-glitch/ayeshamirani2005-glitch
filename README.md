@@ -157,9 +157,9 @@ Responsive web pages and interactive components with modern web technologies.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF79C6&icon_color=BD93F9&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayeshamirani2005&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF79C6&icon_color=BD93F9&text_color=FFFFFF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=FF79C6"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamirani2005&layout=compact&theme=tokyonight&hide_border=true&title_color=FF79C6"/>
 
 <br/><br/>
 
