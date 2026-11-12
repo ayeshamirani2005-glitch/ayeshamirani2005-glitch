@@ -157,13 +157,13 @@ Responsive web pages and interactive components with modern web technologies.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayeshamirani2005&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF79C6&icon_color=BD93F9&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayeshamirani2005-glitch&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF79C6&icon_color=BD93F9&text_color=FFFFFF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamirani2005&layout=compact&theme=tokyonight&hide_border=true&title_color=FF79C6"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamirani2005-glitch&layout=compact&theme=tokyonight&hide_border=true&title_color=FF79C6"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ayeshamirani2005&theme=tokyonight&hide_border=true&ring=FF79C6&fire=00CFFF&currStreakLabel=BD93F9"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=ayeshamirani2005-glitch&theme=tokyonight&hide_border=true&ring=FF79C6&fire=00CFFF&currStreakLabel=BD93F9"/>
 
 </div>
 
