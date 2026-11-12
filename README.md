@@ -108,9 +108,7 @@ Responsive web pages and interactive components built using HTML, CSS, and JavaS
 <a href="https://github.com/ayeshamirani">
 
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+
 
 </p>
 
