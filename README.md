@@ -1,76 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Ayesha%20Mirani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+# AYESHA MIRANI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;AI+Learner;BSCS+Student;Building+Digital+Experiences"/>
+### Front-End Developer | AI Learner | BSCS Student
+
+Building responsive interfaces. Exploring intelligent technologies.
+
+[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](YOUR_LINKEDIN_URL)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## ABOUT ME
 
-Hello! I'm Ayesha Mirani, a BSCS student passionate about technology, web development, and Artificial Intelligence.
+Hello! I'm Ayesha Mirani, a Computer Science student passionate about front-end development, problem-solving, and emerging technologies.
+
+I enjoy transforming ideas into clean, functional, and user-friendly digital experiences.
 
 - 🎓 BS Computer Science Student
-- 💻 Front-End Development
+- 💻 Focused on Front-End Development
 - 🤖 Exploring Artificial Intelligence
-- 🌱 Learning JavaScript, C++ and modern technologies
-- 🚀 Building practical projects
+- 🌱 Continuously improving my programming skills
+- 🚀 Interested in building practical software solutions
 
 ---
 
-## ⚡ Tech Stack
+## TECHNICAL EXPERTISE
+
+**Programming Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,js" />
+</p>
+
+**Web Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,wordpress" />
+</p>
+
+**Development Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+### CodeAlpha — Intern
+
+Completed an internship focused on practical development tasks and technical learning.
+
+- Certificate of Completion
+- Letter of Recommendation
+- Practical development experience
+- Problem-solving and task-based learning
+
+---
+
+## SELECTED PROJECTS
+
+### 01. Healthcare Appointment System
+
+A healthcare web development project focused on patient registration, doctor profiles, and appointment management.
+
+**Technologies:** HTML, CSS, JavaScript
+
+### 02. C++ Programming Projects
+
+Academic programming projects covering programming fundamentals, conditional statements, loops, and logical problem-solving.
+
+**Technology:** C++
+
+### 03. Front-End Development
+
+Responsive web interfaces and interactive components designed to improve usability and accessibility.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+## CURRENTLY LEARNING
+
+- Advanced CSS and Responsive Design
+- JavaScript and DOM Manipulation
+- C++ Problem Solving
+- Artificial Intelligence Fundamentals
+- Modern Web Development
+- Git and GitHub Workflow
+
+---
+
+## GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,git,github,vscode,wordpress&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" width="70%" />
 
 </div>
 
 ---
 
-## 💼 Experience
+## ACHIEVEMENTS & CERTIFICATIONS
 
-**CodeAlpha — Intern**
-
-- Completed practical development tasks.
-- Received Certificate of Completion.
-- Received Letter of Recommendation.
-- Improved problem-solving and development skills.
+- CodeAlpha Internship Certificate
+- CodeAlpha Letter of Recommendation
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🏥 Healthcare System | Patient registration and appointment management |
-| 💻 C++ Programs | Programming and logic building |
-| 🌐 Web Projects | Responsive HTML, CSS and JavaScript |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌐 Let's Connect
+## CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/ayeshamirani">
-<img src="https://img.shields.io/badge/GitHub-Connect-7F00FF?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-ffffff?style=flat-square&logo=github&logoColor=black"/>
 </a>
 
 
@@ -81,6 +131,6 @@ Hello! I'm Ayesha Mirani, a BSCS student passionate about technology, web develo
 
 <div align="center">
 
-### ✨ Code. Create. Learn. Grow.
+**Learning continuously. Building consistently. Growing professionally.**
 
 </div>
