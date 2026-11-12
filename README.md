@@ -66,7 +66,6 @@ Academic programming exercises focused on conditional statements, loops, logic b
 ### 🌐 Front-End Development Projects
 Responsive web pages and interactive components built using HTML, CSS, and JavaScript.
 
-> Add links to your actual project repositories here.
 
 ---
 
@@ -107,8 +106,7 @@ Responsive web pages and interactive components built using HTML, CSS, and JavaS
 <p align="center">
 
 <a href="https://github.com/ayeshamirani">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
